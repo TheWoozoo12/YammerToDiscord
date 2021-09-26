@@ -11,6 +11,6 @@ GroupId is the feedId
 You can get a OAuth token using a "EditThisCookie" plugin
 Scan timeout; i recommend putting it on 1
 
-[Download a Build](https://github.com/TheWoozoo12/YammerToDiscord/blob/main/YammerToDiscord.rar)
+[Download .exe file](https://github.com/TheWoozoo12/YammerToDiscord/blob/main/YammerToDiscord.rar)
 
 Enjoy!
