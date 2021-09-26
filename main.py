@@ -1,6 +1,7 @@
 import requests
 import time
 import json
+from playsound import playsound
 import os
 clear = lambda: os.system('cls')
 
@@ -28,6 +29,7 @@ while i <= 10:
         print("Last message ID: " + str(lastMessageID))
         if lastMessageID != int(response["messages"][0]["id"]) and lastMessageID != 0:
             print("New Message! ID: " + str(response["messages"][0]["id"]))
+            playsound('sound.mp3')
             discordData = {
                 "content": "@everyone",
                 "embeds": [{
