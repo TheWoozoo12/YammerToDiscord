@@ -9,6 +9,6 @@ pip install time
 Execute the python script and put in the variables:
 GroupId is the feedId
 You can get a OAuth token using a "EditThisCookie" plugin
-Scan timeout i recommend puttin on 1
+Scan timeout; i recommend putting it on 1
 
 Enjoy!
